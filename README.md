@@ -24,7 +24,7 @@ Welcome to my GitHub space, where creativity meets code. 💻✨
 📫 **How to Reach Me**  
 - 💌 Email: [shifatuhalimah20@gmail.com](mailto:shifatuhalimah20@gmail.com)  
 - 💼 LinkedIn: [www.linkedin.com/in/halimah-shifatu-0139a0318](https://www.linkedin.com/in/halimah-shifatu-0139a0318)  
-- 🌐 Portfolio: [https://plum-cariotta-94.tiiny.site](https://plum-cariotta-94.tiiny.site)  
+- 🌐 Portfolio: [https://my-portfolio-lilac-two-31.vercel.app/](https://my-portfolio-lilac-two-31.vercel.app/)
 
 ---
 
